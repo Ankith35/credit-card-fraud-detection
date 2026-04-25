@@ -188,7 +188,6 @@ python creditcard_fraud_detection.py
 
 - 💼 [LinkedIn](https://linkedin.com/in/ankith-k-367462219)
 - 📧 ankithsingh137@gmail.com
-- 🌐 [Portfolio](https://your-portfolio.com)
 
 ---
 
