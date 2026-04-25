@@ -13,7 +13,7 @@
 
 ## 🖥️ Power BI Dashboard Preview
 
-![Dashboard](screenshots/powerbi_dashboard.png)
+![Dashboard](powerbi_dashboard.png)
 
 ---
 
