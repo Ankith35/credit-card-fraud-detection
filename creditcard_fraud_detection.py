@@ -219,7 +219,7 @@ state_fraud.sort_values('fraud_cases', ascending=False).head(10)
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
-password = quote_plus('ankithh@1356')
+password = quote_plus('your_mysql_password')   # Replace with your password
 engine = create_engine(f'mysql+pymysql://root:{password}@127.0.0.1/fraud_detection')
 
 df.to_sql('transactions', con=engine, if_exists='replace', 
